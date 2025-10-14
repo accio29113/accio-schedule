@@ -328,4 +328,3 @@ function initStaff(){
 window.AccioSchedule = {
   initViewer, initStaff
 };
-
