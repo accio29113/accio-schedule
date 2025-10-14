@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Accio 空き状況（閲覧のみ）</title>
+  <link rel="stylesheet" href="./schedule.css">
+</head>
+<body>
+  <header class="header">
+    <div class="brand">
+      <div class="logo"></div>
+      <h1>Accio 空き状況 <small>（アクシオ）</small></h1>
+    </div>
+    <div class="toolbar">
+      <span class="badge">閲覧専用 / 保護者さま向け</span>
+      <div class="legend">
+        <span class="chip"><i class="dot ok"></i> 空き</span>
+        <span class="chip"><i class="dot ng"></i> 予約不可</span>
+        <span class="chip"><i class="dot info"></i> お知らせ</span>
+        <span class="chip"><i class="dot closed"></i> 休業</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrapper">
+    <div id="schedule"></div>
+    <p class="notice">※ 火曜 17:00〜19:00 は「東新町教室で授業中」、木曜は「定休日」です。</p>
+  </main>
+
+  <footer class="footer">© Accio</footer>
+
+  <script src="./schedule.js"></script>
+  <script> AccioSchedule.initViewer(); </script>
+</body>
+</html>
