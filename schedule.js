@@ -230,11 +230,25 @@ function nextStatus(current, dayKey){
   return order[(i+1) % order.length];
 }
 
-// ========== viewer 用 初期化 ==========
-function initViewer(){
+// ========== viewer 用 初期化（GitHub上のJSONを読み込む版） ==========
+async function initViewer() {
   const container = document.getElementById('schedule');
+
+  try {
+    const res = await fetch('./accio_schedule.json', { cache: 'no-store' });
+    if (res.ok) {
+      const data = await res.json();
+      saveState(data);
+    } else {
+      console.warn('JSONが見つからんけん、localStorageを使うで。');
+    }
+  } catch (e) {
+    console.warn('JSONの読み込みに失敗。localStorageを使うで。', e);
+  }
+
   render(container, 'viewer');
 }
+
 
 // ========== staff 用 初期化 ==========
 function initStaff(){
@@ -314,3 +328,4 @@ function initStaff(){
 window.AccioSchedule = {
   initViewer, initStaff
 };
+
