@@ -449,67 +449,67 @@
     "slots": [
       {
         "time": "09:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "10:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "10:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "11:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "11:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "12:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "12:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "13:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "13:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "14:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "14:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -519,47 +519,47 @@
       },
       {
         "time": "16:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
