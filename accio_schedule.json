@@ -1,15 +1,15 @@
 {
   "mon": {
-    "dayNote": "3日(月)文化の日は通常営業となっております。",
+    "dayNote": "10日",
     "slots": [
       {
         "time": "15:00",
-        "status": "ok",
+        "status": "info",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ok",
+        "status": "info",
         "note": ""
       },
       {
@@ -54,18 +54,18 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "tue": {
-    "dayNote": "東新町教室の受講生(小中高生限定)募集中！",
+    "dayNote": "4日",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "",
+    "dayNote": "5日",
     "slots": [
       {
         "time": "15:00",
@@ -184,18 +184,18 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "定休日",
+    "dayNote": "6日〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "",
+    "dayNote": "7日",
     "slots": [
       {
         "time": "15:00",
@@ -314,18 +314,18 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "sat": {
-    "dayNote": "",
+    "dayNote": "8日",
     "slots": [
       {
         "time": "09:30",
@@ -409,7 +409,7 @@
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "info",
         "note": ""
       },
       {
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "",
+    "dayNote": "9日",
     "slots": [
       {
         "time": "09:30",
