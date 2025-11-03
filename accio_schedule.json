@@ -4,12 +4,12 @@
     "slots": [
       {
         "time": "15:00",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
@@ -69,12 +69,12 @@
     "slots": [
       {
         "time": "15:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -409,7 +409,7 @@
       },
       {
         "time": "17:30",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
