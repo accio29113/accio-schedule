@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "4日",
+    "dayNote": "11日",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "5日",
+    "dayNote": "12日",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "6日〔定休日〕",
+    "dayNote": "13日〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "7日",
+    "dayNote": "14日",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "8日",
+    "dayNote": "15日",
     "slots": [
       {
         "time": "09:30",
@@ -434,18 +434,18 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "sun": {
-    "dayNote": "9日",
+    "dayNote": "16日",
     "slots": [
       {
         "time": "09:30",
@@ -554,12 +554,12 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
