@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "12/1",
+    "dayNote": "12/8\nプロ検実施期間",
     "slots": [
       {
         "time": "15:00",
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "12/2",
+    "dayNote": "12/9\nプロ検実施期間",
     "slots": [
       {
         "time": "15:00",
@@ -130,72 +130,72 @@
     ]
   },
   "wed": {
-    "dayNote": "12/3",
+    "dayNote": "12/10\nプロ検実施期間",
     "slots": [
       {
         "time": "15:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "12/4〔定休日〕",
+    "dayNote": "12/11〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "12/5",
+    "dayNote": "12/12\nプロ検実施期間",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "12/6",
+    "dayNote": "12/13\nプロ検実施期間",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "12/7",
+    "dayNote": "12/14\nプロ検実施期間(最終日)",
     "slots": [
       {
         "time": "09:30",
