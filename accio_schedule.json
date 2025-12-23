@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "12/15",
+    "dayNote": "12/22",
     "slots": [
       {
         "time": "15:00",
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "12/16",
+    "dayNote": "12/23",
     "slots": [
       {
         "time": "15:00",
@@ -130,72 +130,72 @@
     ]
   },
   "wed": {
-    "dayNote": "12/17\n臨時休講",
+    "dayNote": "12/24",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "12/18〔定休日〕",
+    "dayNote": "12/25〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "12/19",
+    "dayNote": "12/26",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "12/20",
+    "dayNote": "12/27",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "12/21",
+    "dayNote": "12/28",
     "slots": [
       {
         "time": "09:30",
