@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "1/19",
+    "dayNote": "1/26",
     "slots": [
       {
         "time": "15:00",
@@ -49,7 +49,7 @@
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "1/20",
+    "dayNote": "1/27",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "1/21",
+    "dayNote": "1/28",
     "slots": [
       {
         "time": "15:00",
@@ -164,22 +164,22 @@
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "1/22〔定休日〕",
+    "dayNote": "1/29〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "1/23",
+    "dayNote": "1/30\nプロ検結果発表予定",
     "slots": [
       {
         "time": "15:00",
@@ -304,12 +304,12 @@
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "1/24",
+    "dayNote": "1/31",
     "slots": [
       {
         "time": "09:30",
@@ -439,13 +439,13 @@
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "sun": {
-    "dayNote": "1/25",
+    "dayNote": "2/1",
     "slots": [
       {
         "time": "09:30",
@@ -559,7 +559,7 @@
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
