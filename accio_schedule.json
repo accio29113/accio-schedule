@@ -1,15 +1,15 @@
 {
   "mon": {
-    "dayNote": "3/9",
+    "dayNote": "3/16",
     "slots": [
       {
         "time": "15:00",
-        "status": "ng",
+        "status": "info",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ng",
+        "status": "info",
         "note": ""
       },
       {
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "3/10",
+    "dayNote": "3/17",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "3/11",
+    "dayNote": "3/18",
     "slots": [
       {
         "time": "15:00",
@@ -159,7 +159,7 @@
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "3/12〔定休日〕",
+    "dayNote": "3/19〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,72 +260,72 @@
     ]
   },
   "fri": {
-    "dayNote": "3/13",
+    "dayNote": "3/20\n春分の日",
     "slots": [
       {
         "time": "15:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ng",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ng",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ng",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ng",
+        "status": "closed",
         "note": ""
       }
     ]
   },
   "sat": {
-    "dayNote": "3/14",
+    "dayNote": "3/21",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "3/15",
+    "dayNote": "3/22",
     "slots": [
       {
         "time": "09:30",
