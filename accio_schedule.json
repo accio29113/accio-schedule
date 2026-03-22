@@ -1,15 +1,15 @@
 {
   "mon": {
-    "dayNote": "3/16",
+    "dayNote": "3/23",
     "slots": [
       {
         "time": "15:00",
-        "status": "info",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "info",
+        "status": "ng",
         "note": ""
       },
       {
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "3/17",
+    "dayNote": "3/24",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "3/18",
+    "dayNote": "3/25",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "3/19〔定休日〕",
+    "dayNote": "3/26〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,72 +260,72 @@
     ]
   },
   "fri": {
-    "dayNote": "3/20\n春分の日",
+    "dayNote": "3/27",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "sat": {
-    "dayNote": "3/21",
+    "dayNote": "3/28",
     "slots": [
       {
         "time": "09:30",
@@ -454,42 +454,42 @@
       },
       {
         "time": "10:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "10:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "11:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "11:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "12:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "12:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "13:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "13:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
