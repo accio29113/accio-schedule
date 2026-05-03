@@ -264,12 +264,12 @@
     "slots": [
       {
         "time": "15:00",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
@@ -309,17 +309,17 @@
       },
       {
         "time": "19:30",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "info",
+        "status": "ok",
         "note": ""
       }
     ]
