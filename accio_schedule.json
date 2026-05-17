@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "5/11",
+    "dayNote": "5/18",
     "slots": [
       {
         "time": "15:00",
@@ -34,17 +34,17 @@
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "5/12",
+    "dayNote": "5/19",
     "slots": [
       {
         "time": "15:00",
@@ -130,11 +130,11 @@
     ]
   },
   "wed": {
-    "dayNote": "5/13",
+    "dayNote": "5/20",
     "slots": [
       {
         "time": "15:00",
-        "status": "info",
+        "status": "ok",
         "note": ""
       },
       {
@@ -159,22 +159,22 @@
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "info",
+        "status": "ng",
         "note": ""
       },
       {
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "5/14〔定休日〕",
+    "dayNote": "5/21〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "5/15",
+    "dayNote": "5/22",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "5/16",
+    "dayNote": "5/23",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "5/17",
+    "dayNote": "5/24",
     "slots": [
       {
         "time": "09:30",
@@ -554,12 +554,12 @@
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "info",
+        "status": "ng",
         "note": ""
       }
     ]
