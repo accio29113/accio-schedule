@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "6/22",
+    "dayNote": "6/29",
     "slots": [
       {
         "time": "15:00",
@@ -49,23 +49,23 @@
       },
       {
         "time": "19:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "tue": {
-    "dayNote": "6/23",
+    "dayNote": "6/30",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "6/24\n7月プロ検申込締切",
+    "dayNote": "7/1",
     "slots": [
       {
         "time": "15:00",
@@ -179,23 +179,23 @@
       },
       {
         "time": "19:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "6/25\n〔定休日〕",
+    "dayNote": "7/2\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "6/26",
+    "dayNote": "7/3",
     "slots": [
       {
         "time": "15:00",
@@ -309,23 +309,23 @@
       },
       {
         "time": "19:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ng",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "sat": {
-    "dayNote": "6/27",
+    "dayNote": "7/4",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "6/28",
+    "dayNote": "7/5",
     "slots": [
       {
         "time": "09:30",
