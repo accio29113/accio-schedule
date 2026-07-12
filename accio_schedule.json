@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "7/6",
+    "dayNote": "7/13",
     "slots": [
       {
         "time": "15:00",
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "7/7",
+    "dayNote": "7/14",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "7/8",
+    "dayNote": "7/15",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "7/9\n〔定休日〕",
+    "dayNote": "7/16\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "7/10",
+    "dayNote": "7/17",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "7/11",
+    "dayNote": "7/18",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "7/12",
+    "dayNote": "7/19",
     "slots": [
       {
         "time": "09:30",
