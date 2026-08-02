@@ -1,71 +1,71 @@
 {
   "mon": {
-    "dayNote": "7/20\n臨時休講",
+    "dayNote": "8/3",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "tue": {
-    "dayNote": "7/21",
+    "dayNote": "8/4",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "7/23",
+    "dayNote": "8/5",
     "slots": [
       {
         "time": "15:00",
@@ -164,38 +164,38 @@
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "7/24\n〔定休日〕",
+    "dayNote": "8/6\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "7/25",
+    "dayNote": "8/7",
     "slots": [
       {
         "time": "15:00",
@@ -304,28 +304,28 @@
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "sat": {
-    "dayNote": "7/26",
+    "dayNote": "8/8",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "7/27",
+    "dayNote": "8/9",
     "slots": [
       {
         "time": "09:30",
