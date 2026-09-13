@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "8/31",
+    "dayNote": "9/14",
     "slots": [
       {
         "time": "15:00",
@@ -34,22 +34,22 @@
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -65,7 +65,7 @@
     ]
   },
   "tue": {
-    "dayNote": "9/1",
+    "dayNote": "9/15",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "9/2",
+    "dayNote": "9/16",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "9/3\n〔定休日〕",
+    "dayNote": "9/17\n〔定休日〕\nプロ検10月受検希望者申込締切",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "9/4",
+    "dayNote": "9/18",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "9/5",
+    "dayNote": "9/19",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "9/6",
+    "dayNote": "9/20",
     "slots": [
       {
         "time": "09:30",
