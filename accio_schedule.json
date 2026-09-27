@@ -1,201 +1,201 @@
 {
   "mon": {
-    "dayNote": "9/21\n敬老の日\n【臨時休業】",
+    "dayNote": "9/28",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "tue": {
-    "dayNote": "9/22\n国民の休日\n【臨時休業】",
+    "dayNote": "9/29",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "wed": {
-    "dayNote": "9/23\n秋分の日\n【臨時休業】",
+    "dayNote": "9/30",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ok",
         "note": ""
       }
     ]
   },
   "thu": {
-    "dayNote": "9/24\n〔定休日〕",
+    "dayNote": "10/1\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "9/25",
+    "dayNote": "10/2",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "9/26",
+    "dayNote": "10/3",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "9/27",
+    "dayNote": "10/4",
     "slots": [
       {
         "time": "09:30",
