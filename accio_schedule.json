@@ -1,71 +1,71 @@
 {
   "mon": {
-    "dayNote": "10/5",
+    "dayNote": "10/12\nスポーツの日【臨時休講】",
     "slots": [
       {
         "time": "15:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "17:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "18:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "18:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "19:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "ok",
+        "status": "closed",
         "note": ""
       }
     ]
   },
   "tue": {
-    "dayNote": "10/6",
+    "dayNote": "10/13",
     "slots": [
       {
         "time": "15:00",
@@ -130,7 +130,7 @@
     ]
   },
   "wed": {
-    "dayNote": "10/7",
+    "dayNote": "10/14",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "10/8\n〔定休日〕",
+    "dayNote": "10/15\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "10/9",
+    "dayNote": "10/16",
     "slots": [
       {
         "time": "15:00",
@@ -325,7 +325,7 @@
     ]
   },
   "sat": {
-    "dayNote": "10/10",
+    "dayNote": "10/17",
     "slots": [
       {
         "time": "09:30",
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "10/11",
+    "dayNote": "10/18",
     "slots": [
       {
         "time": "09:30",
