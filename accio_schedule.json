@@ -1,6 +1,6 @@
 {
   "mon": {
-    "dayNote": "11/2",
+    "dayNote": "11/16",
     "slots": [
       {
         "time": "15:00",
@@ -65,72 +65,72 @@
     ]
   },
   "tue": {
-    "dayNote": "11/3\n【文化の日】\n臨時休業",
+    "dayNote": "11/17",
     "slots": [
       {
         "time": "15:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "15:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "16:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "17:00",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "17:30",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "18:00",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "18:30",
-        "status": "closed",
+        "status": "ng",
         "note": "東新町教室で授業中"
       },
       {
         "time": "19:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "19:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:00",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "20:30",
-        "status": "closed",
+        "status": "ng",
         "note": ""
       }
     ]
   },
   "wed": {
-    "dayNote": "11/4",
+    "dayNote": "11/18",
     "slots": [
       {
         "time": "15:00",
@@ -195,7 +195,7 @@
     ]
   },
   "thu": {
-    "dayNote": "11/5\n〔定休日〕",
+    "dayNote": "11/19\n〔定休日〕",
     "slots": [
       {
         "time": "15:00",
@@ -260,7 +260,7 @@
     ]
   },
   "fri": {
-    "dayNote": "11/6",
+    "dayNote": "11/20",
     "slots": [
       {
         "time": "15:00",
@@ -325,16 +325,16 @@
     ]
   },
   "sat": {
-    "dayNote": "11/7",
+    "dayNote": "11/21",
     "slots": [
       {
         "time": "09:30",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
         "time": "10:00",
-        "status": "ok",
+        "status": "ng",
         "note": ""
       },
       {
@@ -445,7 +445,7 @@
     ]
   },
   "sun": {
-    "dayNote": "11/8",
+    "dayNote": "11/22",
     "slots": [
       {
         "time": "09:30",
